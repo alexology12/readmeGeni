@@ -4,30 +4,6 @@ A professional readme generator that dynamically generates a professional README
 # Description
 This application creates a professional readme using Node js v16. The user will be asked multiple questions about the project via prompts. He/she has to type in relevant information in the terminal and the application generates a professional README markdown file based on the user's inputs.
 
-## Table of contents
-
-[User Story](#User-story)
-
-[Acceptance Criteria](#Acceptance-criteria)
-
-[Installation](#Installation)
-
-[Usage](#Usage)
-
-[Screenshots](#Screenshots)
-
-[Walkthrough Video](#Walkthrough-video)
-
-[Links](#Links)
-
-[References](#References)
-
-[Acknowledgements](#Acknowledgements)
-
-## License and Badge
-MIT License 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-
 ## User story
 >>
 >>AS A developer
@@ -72,35 +48,7 @@ Follow the prompts and provide relevant inputs about the project
 Once the user answered all the questions, he/she will see a message in the terminal saying "README file generated successfully!"
 The README.md file will be generated
 
-## Screenshots
-![readmeChallenge](https://github.com/SwathiVinod19/readme-generator/assets/129353324/c80173cd-456f-4325-a807-368ace223215)
 
-screenshot of the README.md generated
-
-![readmeChallenge2](https://github.com/SwathiVinod19/readme-generator/assets/129353324/c52518ea-9166-4a0a-b721-e3a0640c2437)
-
-screenshot of the README.md generated
-
-![readme-prompts](https://github.com/SwathiVinod19/readme-generator/assets/129353324/44808855-a487-480c-8b41-9873fd5dd80e)
-
-example of the prompts
-
-## Walkthrough video
-[walkthrough video link](https://drive.google.com/file/d/1OC_2rtkCI1SM82qwbfFSxDRJT4xRQ8iR/view)
-
-## Links
-
-Repository Link: 
-
-Github profile link : 
-
-Video link : https://drive.google.com/file/d/1OC_2rtkCI1SM82qwbfFSxDRJT4xRQ8iR/view
-
-## References
-W3 schools, Professional README Guide, class videos 
-
-## Acknowledgements
-I would like to thank my tutor and peers for their support and guidance and my family for being patient with me.
 
 
 
